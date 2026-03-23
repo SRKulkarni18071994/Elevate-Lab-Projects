@@ -1,0 +1,201 @@
+Order_ID,Category,Sales,Cost,Inventory_Days,Profit
+1,Office Supplies,791,210,30,581
+2,Furniture,212,305,78,-93
+3,Office Supplies,929,372,94,557
+4,Office Supplies,596,177,38,419
+5,Furniture,541,67,119,474
+6,Furniture,663,842,109,-179
+7,Office Supplies,367,784,11,-417
+8,Technology,609,615,72,-6
+9,Office Supplies,906,619,62,287
+10,Office Supplies,485,372,118,113
+11,Office Supplies,486,735,113,-249
+12,Office Supplies,212,841,79,-629
+13,Furniture,712,675,33,37
+14,Office Supplies,724,337,40,387
+15,Technology,180,712,93,-532
+16,Furniture,798,688,25,110
+17,Technology,212,204,40,8
+18,Technology,101,539,14,-438
+19,Technology,741,435,105,306
+20,Technology,319,834,77,-515
+21,Furniture,665,153,28,512
+22,Furniture,954,442,68,512
+23,Technology,835,860,103,-25
+24,Technology,324,295,53,29
+25,Furniture,484,225,103,259
+26,Furniture,502,88,116,414
+27,Furniture,737,526,40,211
+28,Office Supplies,229,731,86,-502
+29,Office Supplies,152,808,117,-656
+30,Office Supplies,783,587,107,196
+31,Technology,829,867,100,-38
+32,Office Supplies,771,457,28,314
+33,Technology,809,574,27,235
+34,Technology,515,877,66,-362
+35,Office Supplies,346,555,100,-209
+36,Technology,935,874,41,61
+37,Office Supplies,538,85,16,453
+38,Office Supplies,302,734,117,-432
+39,Furniture,283,69,59,214
+40,Office Supplies,222,370,17,-148
+41,Furniture,500,825,27,-325
+42,Office Supplies,866,561,93,305
+43,Office Supplies,393,449,103,-56
+44,Furniture,379,703,109,-324
+45,Furniture,936,520,34,416
+46,Office Supplies,983,192,21,791
+47,Technology,709,141,117,568
+48,Furniture,297,403,66,-106
+49,Technology,610,883,88,-273
+50,Technology,851,849,116,2
+51,Technology,243,776,93,-533
+52,Furniture,708,100,90,608
+53,Technology,300,714,17,-414
+54,Furniture,223,747,63,-524
+55,Technology,286,624,23,-338
+56,Office Supplies,425,239,53,186
+57,Office Supplies,563,174,104,389
+58,Furniture,448,199,16,249
+59,Office Supplies,870,363,65,507
+60,Office Supplies,759,619,109,140
+61,Technology,863,391,23,472
+62,Furniture,502,354,80,148
+63,Technology,445,741,13,-296
+64,Technology,610,731,75,-121
+65,Technology,246,887,32,-641
+66,Technology,247,832,82,-585
+67,Technology,963,103,99,860
+68,Technology,810,493,56,317
+69,Technology,919,662,87,257
+70,Furniture,588,313,115,275
+71,Office Supplies,739,102,20,637
+72,Technology,650,621,73,29
+73,Technology,437,669,103,-232
+74,Technology,971,54,16,917
+75,Technology,740,152,29,588
+76,Technology,878,245,56,633
+77,Technology,572,823,89,-251
+78,Office Supplies,250,399,104,-149
+79,Office Supplies,514,96,57,418
+80,Technology,397,872,27,-475
+81,Office Supplies,710,869,20,-159
+82,Furniture,362,705,61,-343
+83,Technology,863,318,43,545
+84,Furniture,243,419,113,-176
+85,Furniture,445,685,57,-240
+86,Technology,723,155,46,568
+87,Office Supplies,671,719,62,-48
+88,Furniture,980,708,43,272
+89,Technology,101,706,18,-605
+90,Furniture,996,169,99,827
+91,Furniture,403,880,9,-477
+92,Furniture,353,836,39,-483
+93,Furniture,751,653,91,98
+94,Office Supplies,552,107,97,445
+95,Furniture,136,395,111,-259
+96,Furniture,259,790,79,-531
+97,Furniture,108,523,22,-415
+98,Office Supplies,332,166,115,166
+99,Furniture,198,879,80,-681
+100,Furniture,758,840,13,-82
+101,Office Supplies,915,176,78,739
+102,Office Supplies,307,442,62,-135
+103,Office Supplies,230,690,112,-460
+104,Furniture,503,107,21,396
+105,Office Supplies,251,683,106,-432
+106,Office Supplies,153,562,11,-409
+107,Furniture,219,800,50,-581
+108,Office Supplies,772,851,17,-79
+109,Furniture,727,145,44,582
+110,Technology,686,687,46,-1
+111,Office Supplies,724,167,13,557
+112,Technology,519,609,54,-90
+113,Furniture,521,650,31,-129
+114,Office Supplies,203,537,70,-334
+115,Furniture,951,286,9,665
+116,Technology,353,321,33,32
+117,Furniture,326,238,41,88
+118,Office Supplies,211,753,42,-542
+119,Office Supplies,609,496,87,113
+120,Technology,572,630,12,-58
+121,Furniture,198,839,116,-641
+122,Office Supplies,252,296,113,-44
+123,Technology,960,125,69,835
+124,Office Supplies,995,203,90,792
+125,Office Supplies,977,705,21,272
+126,Furniture,437,484,75,-47
+127,Office Supplies,805,135,93,670
+128,Furniture,921,746,49,175
+129,Office Supplies,262,334,8,-72
+130,Technology,819,269,40,550
+131,Office Supplies,780,118,74,662
+132,Furniture,260,96,35,164
+133,Furniture,679,143,23,536
+134,Technology,900,799,65,101
+135,Office Supplies,497,502,112,-5
+136,Office Supplies,376,253,58,123
+137,Technology,915,267,43,648
+138,Office Supplies,603,523,95,80
+139,Office Supplies,995,481,78,514
+140,Furniture,491,390,94,101
+141,Office Supplies,234,600,23,-366
+142,Office Supplies,294,661,43,-367
+143,Technology,500,338,71,162
+144,Technology,739,303,49,436
+145,Furniture,132,783,17,-651
+146,Office Supplies,787,406,118,381
+147,Office Supplies,559,72,96,487
+148,Office Supplies,982,811,62,171
+149,Furniture,569,571,24,-2
+150,Furniture,474,807,96,-333
+151,Technology,121,886,76,-765
+152,Furniture,849,149,65,700
+153,Office Supplies,769,851,109,-82
+154,Office Supplies,137,229,43,-92
+155,Furniture,329,272,5,57
+156,Office Supplies,464,811,7,-347
+157,Office Supplies,662,708,81,-46
+158,Furniture,537,491,96,46
+159,Furniture,875,657,66,218
+160,Office Supplies,382,818,67,-436
+161,Office Supplies,126,374,117,-248
+162,Office Supplies,325,565,29,-240
+163,Technology,376,65,60,311
+164,Technology,897,841,37,56
+165,Technology,708,385,42,323
+166,Furniture,383,808,10,-425
+167,Technology,978,307,62,671
+168,Furniture,580,546,48,34
+169,Furniture,552,209,49,343
+170,Technology,928,524,36,404
+171,Technology,915,713,49,202
+172,Technology,758,739,65,19
+173,Office Supplies,615,724,51,-109
+174,Technology,646,429,25,217
+175,Office Supplies,291,594,84,-303
+176,Furniture,148,740,89,-592
+177,Office Supplies,611,476,79,135
+178,Technology,116,662,105,-546
+179,Furniture,271,317,40,-46
+180,Furniture,319,884,103,-565
+181,Furniture,257,626,23,-369
+182,Office Supplies,576,466,24,110
+183,Technology,145,217,61,-72
+184,Furniture,472,891,22,-419
+185,Furniture,617,92,51,525
+186,Furniture,198,605,109,-407
+187,Office Supplies,991,334,53,657
+188,Office Supplies,844,446,18,398
+189,Technology,136,61,19,75
+190,Office Supplies,379,656,35,-277
+191,Furniture,448,351,5,97
+192,Technology,596,302,58,294
+193,Furniture,401,548,7,-147
+194,Furniture,280,803,20,-523
+195,Office Supplies,706,84,91,622
+196,Technology,198,776,61,-578
+197,Office Supplies,799,898,79,-99
+198,Office Supplies,215,139,16,76
+199,Technology,290,825,78,-535
+200,Furniture,352,654,100,-302
